@@ -1,0 +1,21 @@
+{
+    "name": "idea-vault",
+    "version": "1.0.0",
+    "description": "A note-taking application for organizing thoughts and tasks.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "note",
+        "taking",
+        "express",
+        "node.js"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.19.2",
+        "uuid": "^8.3.2"
+    }
+}
